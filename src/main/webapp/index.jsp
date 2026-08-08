@@ -802,7 +802,7 @@
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
+                    <li><a href="#"><i class="fas fa-fire"></i> liked</a></li>
                     <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
                     <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
@@ -876,10 +876,10 @@
         </div>
     </section>
 
-    <!-- Trending Products -->
+    <!-- liked Products -->
     <section class="container">
         <div class="section-title">
-            <h2>Trending Products</h2>
+            <h2>liked Products</h2>
             <p>Discover what's popular right now</p>
         </div>
         
